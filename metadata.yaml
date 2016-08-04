@@ -1,0 +1,59 @@
+_repo: The-Autobiography-of-Charles-Darwin_2010
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Darwin, Charles
+    alias: Darwin, Charles Robert
+    birthdate: 1809
+    deathdate: 1882
+    gutenberg_agent_id: '485'
+    url: http://www.gutenberg.org/2009/agents/485
+    wikipedia: http://en.wikipedia.org/wiki/Charles_Darwin
+  editor:
+    agent_name: Darwin, Francis, Sir
+    alias: Darwin, Sir Francis
+    birthdate: 1848
+    deathdate: 1925
+    gutenberg_agent_id: '1807'
+    url: http://www.gutenberg.org/2009/agents/1807
+    wikipedia: http://en.wikipedia.org/wiki/Francis_Darwin
+description: "The Autobiography of Charles Darwin is an autobiography by the English\
+  \ naturalist Charles Darwin.\nDarwin wrote the text, which he entitled Recollections\
+  \ of the Development of my Mind and Character, for his family. He states that he\
+  \ started writing it on about May 28, 1876 and had finished it by August 3.\nThe\
+  \ text was published in 1887 (five years after Darwin's death) by John Murray as\
+  \ part of The life and letters of Charles Darwin, including an autobiographical\
+  \ chapter. The text printed in Life and Letters was edited by Darwin's son Francis\
+  \ Darwin, who removed several passages about Darwin's critical views of God and\
+  \ Christianity.\nThe omitted passages were later restored by Darwin's granddaughter\
+  \ Nora Barlow in a 1958 edition to commemorate the 100th anniversary of the publication\
+  \ of The Origin of Species. This edition was published in London by Collins under\
+  \ the title of The Autobiography of Charles Darwin 1809-1882. With the original\
+  \ omissions restored. Edited and with appendix and notes by his granddaughter Nora\
+  \ Barlow.\nThe original is in the public domain as its copyright has expired, but\
+  \ the later version remains under copyright. Both are available online at Darwin\
+  \ Online.\n From Wikipedia (CC BY-SA)."
+gutenberg_issued: '1999-12-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2010'
+  wikidata: Q2001494
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Darwin, Charles, 1809-1882'
+- !lcc 'QH'
+- !lcsh 'Darwin, Charles, 1809-1882. On the origin of species'
+- !lcsh 'Naturalists -- Great Britain -- Biography'
+- GITenberg
+title: The Autobiography of Charles Darwin
+url: http://www.gutenberg.org/ebooks/2010
+wikipedia:
+- https://fr.wikipedia.org/wiki/L%27Autobiographie_de_Charles_Darwin
+- https://nl.wikipedia.org/wiki/The_Autobiography_of_Charles_Darwin
+- https://en.wikipedia.org/wiki/The_Autobiography_of_Charles_Darwin
+- https://bg.wikipedia.org/wiki/%D0%90%D0%B2%D1%82%D0%BE%D0%B1%D0%B8%D0%BE%D0%B3%D1%80%D0%B0%D1%84%D0%B8%D1%8F%D1%82%D0%B0_%D0%BD%D0%B0_%D0%A7%D0%B0%D1%80%D0%BB%D0%B7_%D0%94%D0%B0%D1%80%D0%B2%D0%B8%D0%BD
+- https://ru.wikipedia.org/wiki/%D0%90%D0%B2%D1%82%D0%BE%D0%B1%D0%B8%D0%BE%D0%B3%D1%80%D0%B0%D1%84%D0%B8%D1%8F_%D0%A7%D0%B0%D1%80%D0%BB%D0%B7%D0%B0_%D0%94%D0%B0%D1%80%D0%B2%D0%B8%D0%BD%D0%B0
+- https://ca.wikipedia.org/wiki/Autobiografia_de_Charles_Darwin
